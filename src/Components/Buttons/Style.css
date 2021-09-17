@@ -1,0 +1,14 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+body{
+    margin:50px;
+}
+.buttonnames{
+    margin-top:30px;
+}
+.parent_section{
+    margin-top:50px;
+}
